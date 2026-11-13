@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "OpinionOlapLoader.Extract": {
+      "commandName": "Project"
+    }
+  }
+}

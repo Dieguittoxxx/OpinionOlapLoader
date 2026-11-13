@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OpinionOlapLoader.Common/OpinionOlapLoader.Common.csproj" />
+  <Project Path="OpinionOlapLoader.Extract/OpinionOlapLoader.Extract.csproj" Id="26a79b16-ad88-4a9b-b283-8f6476f25a75" />
+  <Project Path="OpinionOlapLoader.Host/OpinionOlapLoader.Host.csproj" Id="630c61db-b0ad-4105-9ca4-a67c04e9e5eb" />
+  <Project Path="OpinionOlapLoader.Load/OpinionOlapLoader.Load.csproj" Id="ea5bc247-e7dd-4d17-8289-6ad9e5e9953b" />
+</Solution>
